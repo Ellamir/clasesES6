@@ -1,0 +1,29 @@
+{
+  "name": "claseses6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ellamir/clasesES6.git"
+  },
+  "author": "Tamara Fendez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ellamir/clasesES6/issues"
+  },
+  "homepage": "https://github.com/Ellamir/clasesES6#readme",
+  "keywords": [],
+  "devDependencies": {
+    "@babel/cli": "^7.14.3",
+    "@babel/core": "^7.14.3",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.14.2"
+  },
+  "dependencies": {
+    "core-js": "^3.13.0"
+  }
+}
